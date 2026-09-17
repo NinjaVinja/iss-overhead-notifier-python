@@ -1,0 +1,11 @@
+# Environment variables (contains real credentials — never commit this)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS junk
+.DS_Store
